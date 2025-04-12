@@ -55,7 +55,7 @@ Currently tested on the following platforms:
 
 ## How to Use
 
-For detailed guides on how to use Ark Server Manager Ascended, please refer to the following resources:
+For detailed guides on how to use Ultimate Rcon, please refer to the following resources:
 
 * [Watch the Video](https://www.youtube.com/watch?v=CHfZ9D54PYE&t=3s)
 * [Join the Discord](https://discord.com/invite/7GQYecCgtu)
